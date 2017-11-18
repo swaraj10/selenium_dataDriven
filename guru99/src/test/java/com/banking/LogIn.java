@@ -26,7 +26,8 @@ public static void init(){
 	}
 }
 	    public static void logIn( String username, String password)
-    {    	
+    {     	
+	    	//I am not changing anything now here, this is just for the shake of time , i just want to update is...lolz....
     	driver.manage().window().maximize();
     	driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
     	driver.navigate().to(URL);
