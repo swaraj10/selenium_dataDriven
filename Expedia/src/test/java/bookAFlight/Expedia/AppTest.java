@@ -15,7 +15,10 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  */
 public class AppTest {
 	
-	public static void main(String[] args){
+		public static void main(String[] args){
+		
+		//go through this video to learn comit in git hub:
+	//  https://www.youtube.com/watch?v=BH4OqYHoHC0
 		
 		System.setProperty("webdriver.firefox.marionette", "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe");
 		WebDriver driver = new FirefoxDriver();
