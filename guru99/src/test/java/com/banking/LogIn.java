@@ -21,7 +21,8 @@ public static void init(){
 	else if (browser.equalsIgnoreCase("")){
 		
 	}	
-	else if(browser.equalsIgnoreCase("")){
+	else if(browser.equalsIgnoreCase("")){  
+		
 		
 	}
 }
