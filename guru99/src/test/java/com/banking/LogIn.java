@@ -18,7 +18,7 @@ public static void init(){
 		System.setProperty("webdriver.firefox.marionette", "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe");
     	driver = new FirefoxDriver();	
 	}	
-	else if (browser.equalsIgnoreCase("")){
+	else if (browser.equalsIgnoreCase("")){   
 		
 	}	
 	else if(browser.equalsIgnoreCase("")){  
@@ -28,7 +28,9 @@ public static void init(){
 }
 	    public static void logIn( String username, String password)
     {     	
-	    	//I am not changing anything now here, this is just for the shake of time , i just want to update is...lolz....
+	    	//I am not changing anything now here, this is just for the shake of time , i just want to update is...lolz...
+	    	
+	    	//this is my test commit and you could see the color change difference here...........
     	driver.manage().window().maximize();
     	driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
     	driver.navigate().to(URL);
