@@ -38,6 +38,9 @@ public static void init(){
     	driver.findElement(By.name("uid")).sendKeys(username);                   //"mngr105719"
     	driver.findElement(By.name("password")).sendKeys(password);                    //("zYregep");
     	driver.findElement(By.name("btnLogin")).click();
+    	//
+    	
+    	//...................
     	title = driver.getTitle();
     	
     }
