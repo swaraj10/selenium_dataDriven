@@ -9,6 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class LogIn 
 
 //this is to test the continious integration
+//this is my second try
 {	
 public static String browser = "firefox";
 public static String URL ="http://www.demo.guru99.com/V4" ;
