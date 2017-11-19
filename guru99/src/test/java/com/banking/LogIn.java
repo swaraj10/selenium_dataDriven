@@ -11,6 +11,7 @@ public class LogIn
 //this is to test the continious integration
 //this is my second try
 //this is my third try
+//This is for new jenkins job
 {	
 public static String browser = "firefox";
 public static String URL ="http://www.demo.guru99.com/V4" ;
