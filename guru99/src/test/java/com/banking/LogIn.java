@@ -7,6 +7,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class LogIn 
+
+//this is to test the continious integration
 {	
 public static String browser = "firefox";
 public static String URL ="http://www.demo.guru99.com/V4" ;
@@ -38,6 +40,9 @@ public static void init(){
     	driver.findElement(By.name("uid")).sendKeys(username);                   //"mngr105719"
     	driver.findElement(By.name("password")).sendKeys(password);                    //("zYregep");
     	driver.findElement(By.name("btnLogin")).click();
+    	
+    	//
+    	//
     	//
     	
     	//...................
