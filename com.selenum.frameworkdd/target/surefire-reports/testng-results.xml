@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.selenium.framework.Test.TestBase" duration-ms="5" started-at="2017-12-24T17:35:57Z" finished-at="2017-12-24T17:35:57Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="5" started-at="2017-12-24T17:35:57Z" finished-at="2017-12-24T17:35:57Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- com.selenium.framework.Test.TestBase -->
+</testng-results>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="150697" started-at="2017-12-24T16:27:38Z" finished-at="2017-12-24T16:30:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="150697" started-at="2017-12-24T16:27:38Z" finished-at="2017-12-24T16:30:09Z">
+      <class name="com.selenium.framework.Test.modules.Module1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="setUp" is-config="true" duration-ms="9729" started-at="2017-12-24T08:27:39Z" finished-at="2017-12-24T08:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logIn(java.lang.String, java.lang.String)[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="logIn" duration-ms="31362" started-at="2017-12-24T08:27:49Z" data-provider="getData" finished-at="2017-12-24T08:28:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swasti.82@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rajababa75]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="closeBrowser" is-config="true" duration-ms="19" started-at="2017-12-24T08:28:20Z" finished-at="2017-12-24T08:28:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="setUp" is-config="true" duration-ms="9409" started-at="2017-12-24T08:28:20Z" finished-at="2017-12-24T08:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logIn(java.lang.String, java.lang.String)[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="logIn" duration-ms="31389" started-at="2017-12-24T08:28:29Z" data-provider="getData" finished-at="2017-12-24T08:29:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adhraj123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[panchkhal3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="closeBrowser" is-config="true" duration-ms="17" started-at="2017-12-24T08:29:01Z" finished-at="2017-12-24T08:29:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="setUp" is-config="true" duration-ms="8998" started-at="2017-12-24T08:29:01Z" finished-at="2017-12-24T08:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logIn(java.lang.String, java.lang.String)[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="logIn" duration-ms="3763" started-at="2017-12-24T08:29:10Z" data-provider="getData" finished-at="2017-12-24T08:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajaramadhikari@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ahggakaka]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="closeBrowser" is-config="true" duration-ms="20" started-at="2017-12-24T08:29:14Z" finished-at="2017-12-24T08:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="setUp" is-config="true" duration-ms="10245" started-at="2017-12-24T08:29:14Z" finished-at="2017-12-24T08:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logIn(java.lang.String, java.lang.String)[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="logIn" duration-ms="31520" started-at="2017-12-24T08:29:24Z" data-provider="getData" finished-at="2017-12-24T08:29:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swasti.82@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[errdffgddfg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="closeBrowser" is-config="true" duration-ms="13" started-at="2017-12-24T08:29:55Z" finished-at="2017-12-24T08:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="setUp" is-config="true" duration-ms="9918" started-at="2017-12-24T08:29:55Z" finished-at="2017-12-24T08:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logIn(java.lang.String, java.lang.String)[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="logIn" duration-ms="3687" started-at="2017-12-24T08:30:05Z" data-provider="getData" finished-at="2017-12-24T08:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adhraj123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ljdhdhdhh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.framework.Test.modules.Module1@1a968a59]" name="closeBrowser" is-config="true" duration-ms="20" started-at="2017-12-24T08:30:09Z" finished-at="2017-12-24T08:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.selenium.framework.Test.modules.Module1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
